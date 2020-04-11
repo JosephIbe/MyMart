@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "136573108585",
+    "firebase_url": "https://mymart-862bb.firebaseio.com",
+    "project_id": "mymart-862bb",
+    "storage_bucket": "mymart-862bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136573108585:android:c7de61641c63a5879dbdf8",
+        "android_client_info": {
+          "package_name": "dev.joey.g_mart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136573108585-dpeaafnhlp8app55s0i0bon799eh305c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQCNNeK0vxO1ps544t-3NB_PIgbNF01LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136573108585-dpeaafnhlp8app55s0i0bon799eh305c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
